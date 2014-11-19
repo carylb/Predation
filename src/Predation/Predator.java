@@ -1,7 +1,7 @@
 package Predation;
 import sim.engine.*;
 import sim.util.*;
-
+//edited by Caryl in website_in personal fork (carylb/Predation)
 public class Predator implements Steppable{
 	int x,y;
 	int nextx, nexty;
